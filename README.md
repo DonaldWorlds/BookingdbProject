@@ -83,7 +83,7 @@ The overall design of our database schema is fundamental to efficient data stora
 
 The database schema is as follows:
 
-[INSERT SCHEMA IMAGE]
+ADDED FEATURE FOR GIF!
 
 ## Prerequisites
 
